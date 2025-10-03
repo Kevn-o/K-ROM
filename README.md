@@ -1,6 +1,6 @@
 # K-ROM
 Work-In Progress Rom
-Experience The New OneUI On Unsupported Galaxy LowEnd Devices
+Experience The New OneUI On Unsupported Galaxy LowEnd/MidEnd Devices
 
 # Features
 -Galaxy AI
