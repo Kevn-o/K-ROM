@@ -27,6 +27,9 @@ Experience The New OneUI On Unsupported Galaxy LowEnd Devices
 
 # Supported Devices
 -A21s (A217F/M/N) (Exynos 850)
+
 -A15 4G (A155F/M/N) (Mediatek G99)
+
 -A16 4G (A165F/M/N) (Mediatek G99)
+
 -A05 4G (A055F/M) (Mediatek G80)
