@@ -33,3 +33,10 @@ Experience The New OneUI On Unsupported Galaxy LowEnd/MidEnd Devices
 -A16 4G (A165F/M/N) (Mediatek G99)
 
 -A05 4G (A055F/M) (Mediatek G80)
+
+# More Addons
+-Applock
+
+-fixed overlays
+
+-full vendor 33 support
