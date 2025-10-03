@@ -4,15 +4,26 @@ Experience The New OneUI On Unsupported Galaxy LowEnd Devices
 
 # Features
 -Galaxy AI
+
 -Flagship Animations
+
 -S23 FE Wallpapers
+
 -High End Animations/Features
+
 -Custom CSC From S721B
+
 -In Real Time Network Speed
+
 -VoLTE Working
+
 -Based On Latest A14 Firmware (A21s)
--Based On Latest S23 FE Firmware (A15 4G And A16 4G)
+
+-Based On Latest S23 FE Firmware 
+(A15 4G And A16 4G)
+
 -Based On Modded Stock (A05)
+
 
 # Supported Devices
 -A21s (A217F/M/N) (Exynos 850)
