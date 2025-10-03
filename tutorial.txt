@@ -1,2 +1,39 @@
-how to flash krom!
-soon tutorial
+How To Flash KROM
+
+IF INSTALLING FROM STOCK
+-Download any custom recovery you wish And Vbmeta
+-Install Odin And Samsung USB Drivers
+-In Your A21s: Tap The Build Number A Few Times(dev options should be unlocked)
+-In Developer Options,enable OEM Unlocking
+-Now Power Off Your Device
+-Hold Volume Up And Down, Then Plug Your phone in your computer
+-in download mode,hold volume up until a popup appears saying "Unlock Bootloader?" Hold The Volume Up,now your data is gone
+-even if you now try to flash custom recoveries and other stuff, they will FAIL,
+This happens because KG State Is Prenormal, How To Turn It To Checking?
+-In Developer Options: Disable Auto Updates
+-Change Date And Time To 2 Weeks In The Future
+-Now Connect In Internet And Check For Updates
+
+CONGRATS! KG State Is Now Checking
+This Means That You Can Flash Anything You Wish
+
+After Turning Kg State To Checking:
+-Power Off Device
+-Enter Download Mode
+-Press Volume Up
+-Flash Custom Recovery In AP Box And Vbmeta In Last Box
+-Turn Off Auto Reboot And Press Start
+-After Its Done Hold Volume Down And Power Button Untill Screen Turns Black And Then Hold Volume Up And Power Button
+
+IF INSTALLING FROM ANOTHER ONEUI ROM OR ALREADY HAVING CUSTOM RECOVERY
+-Download zip
+-Download Repartitioner
+-In TWRP, Flash repartitioner.zip(!THIS WILL WIPE YOUR DATA,MAKE SURE YOU HAVE A BACKUP!)
+-Reboot Recovery
+-Format Data and wipe Dalvik\ART,Cache
+-Reboot To Recovery Again
+-Flash The Rom.zip Now
+-Flash Atlas Kernel
+-Wipe Data
+-Reboot System
+-DONE!
