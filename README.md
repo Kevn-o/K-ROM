@@ -40,3 +40,11 @@ Experience The New OneUI On Unsupported Galaxy LowEnd/MidEnd Devices
 -fixed overlays
 
 -full vendor 33 support
+
+# Credits
+
+-@Mustafa for Atlas Fix
+
+-@BasGame1 For Helping With Alot Of Stuff
+
+-@arvin for tweaking this rom
